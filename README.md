@@ -12,11 +12,12 @@ Hedefim, dinamik ve yenilikçi ekiplerle birlikte büyük ölçekli projelerde y
 - C, C++, C#, Java, JavaScript
 
 ### Web Geliştirme:
-- HTML, CSS, PHP, Bootstrap  
-- ASP.NET, React, Node.js
+- HTML, CSS, PHP, Bootstrap , TailwindCSS
+- ASP.NET, React, Node.js , Vue.js
 
-### Veritabanı:
+### Veritabanı ve Backend Platformları:
 - MSSQL
+- Firebase, Supabase (Authentication, Firestore, Hosting)
 
 ### Geliştirme Araçları:
 - Visual Studio, VS Code, Android Studio, Git
