@@ -1,5 +1,5 @@
 ![Github Badge](https://komarev.com/ghpvc/?username=enssyilmz&color=brightgreen)
-yaml
+```yaml
 
 name: Muhammed Enes Yılmaz
 located_in: Ordu, Turkey
@@ -14,8 +14,7 @@ certificates:
     "Softtech - Interview Techniques",
     "KOSGEB - Entrepreneurship Training",
   ]
-
-
+```
 ## Programming Languages
 ![Langs](https://skillicons.dev/icons?i=cs,c,cpp,java,js,ts,")
 ## Web Development
