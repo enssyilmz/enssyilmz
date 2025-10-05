@@ -1,16 +1,26 @@
-## Hi there 👋
+![Github Badge](https://komarev.com/ghpvc/?username=enssyilmz&color=brightgreen)
+yaml
 
-<!--
-**enssyilmz/enssyilmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+name: Muhammed Enes Yılmaz
+located_in: Ordu, Turkey
+education:
+  [
+    "Zonguldak Bülent Ecevit University - Computer Engineering"
+    "Karadeniz Technical University - Computer Programming"
+  ]
+certificates:
+  [
+    "Udemy - Object Oriented Programming with C# (Beginner to Advanced)"
+    "Softtech - Interview Techniques",
+    "KOSGEB - Entrepreneurship Training",
+  ]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+![Langs](https://skillicons.dev/icons?i=cs,c,cpp,java,js,ts,")
+## Web Development
+![Techs](https://skillicons.dev/icons?i=html,css,php,bootstrap,react,vue,nodejs,nextjs,tailwind,npm")
+## Database and Backend
+![Datas](https://skillicons.dev/icons?i=firebase,supabase,")
+## DevOps & Tools
+![Devops](https://skillicons.dev/icons?i=docker,netlify,git,figma,")
