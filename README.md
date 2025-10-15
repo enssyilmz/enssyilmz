@@ -2,7 +2,7 @@
 ```yaml
 
 name: Muhammed Enes Yılmaz
-located_in: Ordu, Turkey
+located_in: İstanbul, Turkey
 education:
   [
     "Zonguldak Bülent Ecevit University - Computer Engineering"
